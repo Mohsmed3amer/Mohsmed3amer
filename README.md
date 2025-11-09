@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/qiXu7b2.png" width="120" alt="Profile Banner"/>
+  <img src="[https://i.imgur.com/qiXu7b2.png" width="120" alt="Profile Banner](https://avatars.githubusercontent.com/u/92859270?s=400&u=b87aac138fc61a208448ea2c2a09323eb351a7a5&v=4)"/>
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Essam 👋</h1>
