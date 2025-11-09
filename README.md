@@ -49,10 +49,10 @@
 ## 🚀 My Projects
 
 ### ✅ YU-YU  
-Platform for streaming & movie browsing (Frontend Project)
+Platform Japanese food restaurant(Frontend Project)
 
 ### ✅ Marvel  
-Superheroes website using API & React UI
+Platform Marvel series(Frontend Project)
 
 ### ✅ Fitclub  
 Fitness gym landing page with animated UI/UX
