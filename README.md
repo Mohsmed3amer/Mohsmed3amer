@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Mohsmed3amer/Mohsmed3amer/blob/main/linkedin.png"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Mohamed Essam 👋</h1>
 
