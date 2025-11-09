@@ -60,7 +60,7 @@ Fitness gym landing page with animated UI/UX
 ### ✅ NovusHaus  
 E-commerce furniture store (Full Frontend)
 
-### ✅ Combo  
+### ✅ Food  
 Restaurant website with responsive frontend & clean sections
 
 ---
