@@ -14,22 +14,28 @@
 
 ## 🔗 Connect With Me  
 <p align="center">
+
   <a href="https://www.linkedin.com/in/mo7med-3ssam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img width="32px" src="https://i.imgur.com/yRpa1dQ.png" />
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="https://wa.me/01118719524">
-    <img width="32px" src="https://i.imgur.com/OViZO8J.png" />
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733585.png"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="https://www.facebook.com/share/1Bhkaa3YWa/">
-    <img width="32px" src="https://i.imgur.com/AixJgnm.png" />
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="https://www.instagram.com/mohamedesssam524?igsh=MXRtZGZmN2hjZnplbA==">
-    <img width="32px" src="https://i.imgur.com/PpLeD3K.png" />
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
   </a>
+
 </p>
+
 
 ---
 
