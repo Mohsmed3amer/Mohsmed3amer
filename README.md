@@ -76,6 +76,7 @@ Restaurant website with responsive frontend & clean sections
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67.svg?logo=odoo&logoColor=white"/>
 </p>
 
 ### **Backend**
